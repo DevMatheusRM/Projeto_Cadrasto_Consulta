@@ -9,10 +9,12 @@ Implementação de estruturas como fila circular e LinkedList para manipulação
 Gerenciamento de listas de telefones ordenadas e não ordenadas, com capacidade expansível.
 Enum para profissões e classes para representar entidades como endereços e cargos.
 Sistema interativo via console para testar funcionalidades com menus de fácil navegação.
+
 💡 Objetivo:
 Demonstrar boas práticas de POO (Programação Orientada a Objetos), trabalhar com estruturas de dados, e explorar conceitos de modularização e reutilização de código em Java.
 
 A saída no terminal é esta: 
+
 ====MENU PRINCIPAL====
 1. Cadastrar NOVO Cliente
 2. Cadastrar NOVO Funcionário
